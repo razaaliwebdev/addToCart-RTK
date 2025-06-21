@@ -2,6 +2,8 @@
 
 This project is a sample e-commerce application built with React and Redux Toolkit. It demonstrates how to use Redux Toolkit for state management in a more complex application, including features like a shopping cart.
 
+## Live Link of this site is : [GoLIve]([URL](https://add-to-cart-with-rtk.netlify.app/))
+
 ## About Redux Toolkit
 
 Redux Toolkit is the official, opinionated, batteries-included toolset for efficient Redux development. It simplifies Redux development by providing utilities to handle common use cases like store setup, creating reducers, and managing immutable updates.
